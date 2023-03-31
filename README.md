@@ -1,15 +1,16 @@
 ## Hi there 👋 I'm [Jayden](http://zengxud.tk.intro/)
 
-**Now:**
+**Intro**
 
-- ⚡ I'm passionate about swimming, skiing, and so on.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: xrhqnrsh@duck.com.
+- 🧐 Needy but Struggling.
+- 🧬 Major in Structure Biology
+- 💬 Be free to ask me anything.
+- 📫 Make friend: shenmiyouxiang@gmail.com
 
 **GitHub Stats:**  
 
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/Jaaayden">
     <img alt="YooKing's github stats" src="https://github-readme-stats.vercel.app/api?username=Jaaayden&show_icons=true&hide_border=true" />
   </a>
 
