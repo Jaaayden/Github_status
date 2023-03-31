@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Jayden](http://zengxud.tk/hi/)
+## Hi there 👋 I'm [Jayden](http://zengxud.tk/hi)
 
 **Intro**
 
